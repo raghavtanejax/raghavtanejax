@@ -34,7 +34,7 @@
 
 ## 🚀 Projects
 
-### 🔒 [Secure File Encryption and Decryption Tool](https://github.com/raghavtanejax/secure-file-encryption)
+### 🔒 [Secure File Encryption and Decryption Tool](https://github.com/raghavtanejax/Secure_File_Encryption_and_decryption_Tool)
 *Jun 2024*  
 - Developed a **Python-based file encryption tool** for security.  
 - Implemented **AES-256** to securely encrypt and decrypt sensitive files.  
