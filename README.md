@@ -52,7 +52,9 @@
 ## 📊 GitHub Analytics  
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavtanejax&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavtanejax&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavtanejax&theme=radical)  
+
+### 📈 Contribution Graph  
+![Raghav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavtanejax&theme=radical)  
 
 ---
 
