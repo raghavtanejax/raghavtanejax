@@ -43,13 +43,13 @@
 - Users can generate a **professional resume in PDF format** instantly.
 
 ### 🤖 [Face Recognition using AI](https://github.com/raghavtanejax/Face-recog-using-AI)  
-*(Date — e.g., Jul 2025)*  
+*Jul 2025*  
 - Mini project using **machine learning and AI** for face detection.  
 - Integrated pre-trained models and algorithms (e.g., Haar Cascade or deep learning) for real-time detection.  
 - Implemented using **Python**, OpenCV, and relevant model files.
 
 ### 🌐 [Web Traffic Time Series Forecasting](https://github.com/raghavtanejax/Web_Traffic_Time_Series_Forecasting)  
-*(Date — e.g., Aug 2025)*  
+*Aug 2025*  
 - Flask-based app generating synthetic daily web-traffic data showcasing **seasonality and noise**.  
 - Features a **UI and REST endpoint** to generate dataset and save to CSV.  
 - Scaffold includes EDA capabilities and supports future forecasting models (e.g., ARIMA, Prophet).  
