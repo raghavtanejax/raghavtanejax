@@ -30,18 +30,32 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 ### 🔒 [Secure File Encryption and Decryption Tool](https://github.com/raghavtanejax/Secure_File_Encryption_and_decryption_Tool)  
 *Jun 2024*  
 - Python-based **AES-256 encryption tool** for file security.  
-- Ensures **confidentiality** of sensitive data with CLI usability.  
+- Ensures **confidentiality** of sensitive data with CLI usability.
 
 ### 📄 [Virtual Resume Builder](https://github.com/raghavtanejax/virtual-resume-builder)  
 *Jun 2024*  
 - Built with **HTML, CSS, JavaScript, jsPDF**.  
-- Users can generate a **professional resume in PDF format** instantly.  
+- Users can generate a **professional resume in PDF format** instantly.
 
+### 🤖 [Face Recognition using AI](https://github.com/raghavtanejax/Face-recog-using-AI)  
+*(Date — e.g., Jul 2025)*  
+- Mini project using **machine learning and AI** for face detection.  
+- Integrated pre-trained models and algorithms (e.g., Haar Cascade or deep learning) for real-time detection.  
+- Implemented using **Python**, OpenCV, and relevant model files.
+
+### 🌐 [Web Traffic Time Series Forecasting](https://github.com/raghavtanejax/Web_Traffic_Time_Series_Forecasting)  
+*(Date — e.g., Aug 2025)*  
+- Flask-based app generating synthetic daily web-traffic data showcasing **seasonality and noise**.  
+- Features a **UI and REST endpoint** to generate dataset and save to CSV.  
+- Scaffold includes EDA capabilities and supports future forecasting models (e.g., ARIMA, Prophet).  
+- Tech stack: Flask, pandas, NumPy, Jupyter Notebooks, with scope to integrate ML models.
+
+  
 ---
 
 ## 🏆 Achievements
