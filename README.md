@@ -1,76 +1,73 @@
-# Hi there, I'm Raghav Taneja 👋  
+# Hi there, I'm Raghav Taneja 👋
 
-💡 **Full Stack Developer | Tech Enthusiast | Problem Solver**  
-🎓 BCA Student @ **Graphic Era University, Dehradun**  
-🚀 Building scalable web apps | Exploring AI & Cloud | Open Source Contributor  
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Python%20Developer-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-00897B?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Specialist-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
----
-
-## 🌐 Connect with Me  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavtaneja487@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavtanejax)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavtanejax/)  
-
----
-
-## 🎓 Education
-- **BCA (2023 – Present)** | Graphic Era University, Dehradun – **GPA: 7.10/10**  
-- **Class 12 (2023)** | Rainbow School, Saharanpur – **70.33%**  
-- **Class 10 (2020)** | Rainbow School, Saharanpur – **73.40%**  
+💡 **Associate Software Engineer | Data Analyst | AI Enthusiast**  
+🚀 Specializing in **Scalable Backends**, **Fraud Analytics**, and **Predictive Modeling**.  
+🎓 BCA Student @ **Graphic Era University, Dehradun**.  
+🛠️ Building professional-grade solutions at **Krishnova LLP**.
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python · JavaScript · Java · C · C++ · SQL  
-**Frontend:** HTML5 · CSS3 · Bootstrap · Responsive Design  
-**Backend:** Django · Flask · Java  
-**Databases:** MySQL · SQLite  
-**Tools:** Git · GitHub · Firebase · Google Cloud · Linux (Garuda) · Figma · Canva · LaTeX  
-**Others:** API Integration · jsPDF · OpenCV  
+### 🌐 Connect & Collaborate
+<p align="left">
+<a href="mailto:raghavtaneja487@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/raghavtanejax/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://raghavtaneja.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack & Expertise
 
-### 🔒 [Secure File Encryption and Decryption Tool](https://github.com/raghavtanejax/Secure_File_Encryption_and_decryption_Tool)  
-*Jun 2024*  
-- Python-based **AES-256 encryption tool** for file security.  
-- Ensures **confidentiality** of sensitive data with CLI usability.
-
-### 📄 [Virtual Resume Builder](https://github.com/raghavtanejax/virtual-resume-builder)  
-*Jun 2024*  
-- Built with **HTML, CSS, JavaScript, jsPDF**.  
-- Users can generate a **professional resume in PDF format** instantly.
-
-### 🤖 [Face Recognition using AI](https://github.com/raghavtanejax/Face-recog-using-AI)  
-*Jul 2025*  
-- Mini project using **machine learning and AI** for face detection.  
-- Integrated pre-trained models and algorithms (e.g., Haar Cascade or deep learning) for real-time detection.  
-- Implemented using **Python**, OpenCV, and relevant model files.
-
-### 🌐 [Web Traffic Time Series Forecasting](https://github.com/raghavtanejax/Web_Traffic_Time_Series_Forecasting)  
-*Aug 2025*  
-- Flask-based app generating synthetic daily web-traffic data showcasing **seasonality and noise**.  
-- Features a **UI and REST endpoint** to generate dataset and save to CSV.  
-- Scaffold includes EDA capabilities and supports future forecasting models (e.g., ARIMA, Prophet).  
-- Tech stack: Flask, pandas, NumPy, Jupyter Notebooks, with scope to integrate ML models.
-
-  
----
-
-## 🏆 Achievements
-- 🥇 Secured **Top 30 out of 1800+ teams** at **TechSprint Hackathon (GEU)** 🎉  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Analysis & BI** | **Power BI, Excel, Pandas, NumPy, Matplotlib** |
+| **Backend & AI** | **FastAPI, Django, Flask, LangChain, LangGraph** |
+| **Languages** | **Python, SQL, JavaScript, Java, C++** |
+| **Databases** | **PostgreSQL, MongoDB, MySQL, Redis** |
+| **Tools & Cloud** | **Docker, AWS, Firebase, Git, Postman** |
 
 ---
 
-## 📊 GitHub Analytics  
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavtanejax&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavtanejax&layout=compact&theme=radical)  
+### 🚀 Featured Projects
 
-### 📈 Contribution Graph  
-![Raghav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavtanejax&theme=radical)  
+#### 📊 **AI-Driven Fraud Analytics System**
+- Developed a predictive pipeline to identify fraudulent patterns using graph-based network analysis.
+- Leveraged technical architecture to detect anomalous behaviors in healthcare datasets.
+
+#### 📈 **Web Traffic Time Series Forecasting**
+- Built a forecasting engine using predictive modeling to analyze daily web traffic trends.
+- Integrated a UI with a REST endpoint for generating and visualizing synthetic datasets.
+
+#### 🏥 **Veritas Health App**
+- Architected for **Mumbai Hacks 2025** using **FastAPI** and AI orchestration.
+- Implemented AI agents for real-time validation and verification of medical claims.
 
 ---
 
-⭐️ *"Code. Create. Innovate."*  
-![Profile views](https://komarev.com/ghpvc/?username=raghavtanejax)  
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavtanejax&show_icons=true&theme=radical" alt="Raghav's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavtanejax&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghavtanejax&theme=radical" alt="Raghav Taneja's Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <b>"Code. Create. Innovate."</b> <br/>
+  <img src="https://komarev.com/ghpvc/?username=raghavtanejax&color=blue" alt="Profile Views" />
+</p>
